@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-O projeto Alura Studies projeto para criar tarefas e definir o tempo de realização para cada, tem como objetivo executar práticas com framework React SCSS e realizando a criação de um formulário para cadastro de tarefas e apresentando as mesmas ao usuário e o tempo atualizando automaticamente.
+O projeto Alura Studies projeto para criar tarefas e definir o tempo de realização para cada, tem como objetivo executar práticas com framework React, SCSS e realizando a criação de um formulário para cadastro de tarefas e apresentando as mesmas ao usuário e o tempo atualizando automaticamente.
 
 ## Tecnologias Utilizadas
 * HTML

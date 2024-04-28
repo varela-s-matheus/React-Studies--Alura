@@ -4,8 +4,10 @@ O projeto Alura Studies projeto para criar tarefas e definir o tempo de realiza√
 
 ## Tecnologias Utilizadas
 * HTML
+* CSS
 * SCSS
-* ReactJS
+* JavaScript/TypeScript
+* React
 
 # Getting Started with Create React App
 

@@ -1,3 +1,12 @@
+## Sobre o Projeto
+
+O projeto Alura Studies projeto para criar tarefas e definir o tempo de realização para cada, tem como objetivo executar práticas com framework React SCSS e realizando a criação de um formulário para cadastro de tarefas e apresentando as mesmas ao usuário e o tempo atualizando automaticamente.
+
+## Tecnologias Utilizadas
+* HTML
+* SCSS
+* ReactJS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +53,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Contatos
+
+<a href="https://linkedin.com/in/varela-s-matheus" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-MatheusVarela-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/varela_matheuus/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-MatheusVarela-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
